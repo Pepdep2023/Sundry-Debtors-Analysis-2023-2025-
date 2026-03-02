@@ -73,10 +73,12 @@ The project uses three Excel files:
 Each file contains financial statements with a Sundry Debtors section.
 
 **Methodology**
+
 Data Extraction
 
-**The program:
-**
+
+**The program:**
+
 1.Searches for the "Sundry Debtors" heading
 
 2.Extracts all names listed below it
@@ -87,8 +89,9 @@ Data Extraction
 
 5.Ensures no totals or unrelated headings are included
 
-**Data Merging
-**
+
+**Data Merging**
+
 All three years are merged using an outer join to ensure:
 
 1.No debtor is missed
