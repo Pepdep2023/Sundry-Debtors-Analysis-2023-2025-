@@ -5,6 +5,7 @@ This project analyzes Sundry Debtors data from three Excel files (**2023, 2024, 
 
 The objective is to:
 
+
 Extract all debtor names under Sundry Debtors
 
 Extract their individual amounts
@@ -17,8 +18,9 @@ Identify new debtors appearing in later years
 
 Export the final structured report to Excel
 
-** Objectives
-**
+
+**Objectives**
+
 The system performs the following:
 
 Extract all debtor names and closing amounts from each year.
@@ -26,6 +28,7 @@ Extract all debtor names and closing amounts from each year.
 Merge all three years without missing any debtor.
 
 Classify each debtor as:
+
 
 1.Fully Paid
 
@@ -35,6 +38,7 @@ Classify each debtor as:
 
 4.Increased (New Credit Given)
 
+
 Identify:
 
 1.New debtors in 2024
@@ -42,6 +46,7 @@ Identify:
 2.New debtors in 2025
 
 3.Generate a professional Excel output report.
+
 
 **Technologies Used**
 
